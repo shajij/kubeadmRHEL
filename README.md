@@ -1,5 +1,5 @@
 # kubeadmRHEL
-Setting up and Install a Kubernetes Cluster with Kubeadm
+Setting up and Installing a Kubernetes Cluster with Kubeadm
 
 Ref: 
 
